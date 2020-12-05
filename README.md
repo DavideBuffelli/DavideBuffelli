@@ -3,7 +3,7 @@
 <!--
 **DavideBuffelli/DavideBuffelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Davide Buffelli, a PhD student at the University of Padova working on Graph Representation Learning, Graph Neural Networks, and 
+I'm Davide Buffelli, a PhD student at the University of Padova working on Graph Representation Learning, Graph Neural Networks, and Meta-Learning.
 
 In this profile you will find code related to my research projects and to my papers.
 
