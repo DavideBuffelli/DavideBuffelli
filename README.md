@@ -2,7 +2,7 @@
 
 ## Hi there 👾
 
-I'm Davide Buffelli, a PhD candidate at the University of Padova working on Graph Representation Learning, and Graph Neural Networks. I've previously been an intern at Meta AI and Samsung AI, and a visiting researcher at the University of Cambridge (in Prof. Pietro Liò's group) and at the Helmholtz Institute (in Dr. Bastian Rieck's group)
+I'm Davide Buffelli, and I am an AI researcher. I hold a PhD from the University of Padova, which was focused on Graph Representation Learning, and Graph Neural Networks. I've previously been an intern at Meta AI and Samsung AI, and a visiting researcher at the University of Cambridge (in Prof. Pietro Liò's group) and at the Helmholtz Institute (in Dr. Bastian Rieck's group)
 
 #### ⚙️🔍
 In this profile you will find code related to my research projects and to my papers. 
