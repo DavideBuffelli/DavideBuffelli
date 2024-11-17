@@ -2,7 +2,9 @@
 
 ## Hi there 👾
 
-I'm Davide Buffelli, and I am an AI researcher. I hold a PhD from the University of Padova, which was focused on Graph Representation Learning, and Graph Neural Networks. I've previously been an intern at Meta AI and Samsung AI, and a visiting researcher at the University of Cambridge (in Prof. Pietro Liò's group) and at the Helmholtz Institute (in Dr. Bastian Rieck's group)
+I am a Senior Deep Learning Researcher at MediaTek Research in London (UK). I have a broad interest in Deep Learning, with a current focus on foundation models for multimodal time-series, optimization, and representation learning for structured data.
+
+I hold a Ph.D. in Information Engineering from the University of Padova, where I focused on Graph Neural Networks and Graph Representation Learning and I was supervised by Professor Fabio Vandin. During my PhD I have been a Research Scientist Intern at Meta AI (London) and at Samsung AI Research (Cambridge), and a visiting student in Professor Pietro Liò's group at the University of Cambridge, and in Dr. Bastian Rieck's group at Helmholtz Munich.
 
 #### ⚙️🔍
 In this profile you will find code related to my research projects and to my papers. 
